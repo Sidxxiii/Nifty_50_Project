@@ -1,0 +1,4 @@
+venv/
+db/*.db
+output/*.xlsx
+__pycache__/
